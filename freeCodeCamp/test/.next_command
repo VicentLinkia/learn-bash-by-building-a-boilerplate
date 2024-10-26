@@ -116,3 +116,4 @@ ls --color=auto
 more
 more LICENSE-MIT
 clear
+ls --color=auto
