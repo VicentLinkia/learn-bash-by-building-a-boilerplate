@@ -196,3 +196,5 @@ mkdir client/src
 mv index.html client/src
 find
 mv index.js client/src
+mv style.css client/src
+mv styles.css client/src
